@@ -30,4 +30,8 @@ system programming and embedded, resource-constrained software and large systems
 with performance, efficiency, and flexibility of use as its design highlights.
 
 ## CONTRIBUTIONS
-1712557642, 1712557642, 1821907642
+1712557642, 1821907642
+
+## Language Contributions
+1712557642 shell script
+1821907642 cpp
